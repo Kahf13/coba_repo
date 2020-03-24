@@ -1,0 +1,1 @@
+mencoba upload ke github lewat git bash
